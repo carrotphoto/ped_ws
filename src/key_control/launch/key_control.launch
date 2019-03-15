@@ -1,0 +1,8 @@
+<!-- -->
+
+<launch>
+	<node pkg="key_control" type="key_control" name="key_control_node" output="screen">
+    <rosparam file="$(find key_control)/cfg/key_control.yaml" command="load" />
+</launch>
+
+
