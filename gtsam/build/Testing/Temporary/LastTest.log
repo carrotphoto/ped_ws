@@ -1,0 +1,4445 @@
+Start testing: Mar 20 12:26 CST
+----------------------------------------------------------
+1/233 Testing: testArgument
+1/233 Test: testArgument
+Command: "/home/robot/ped_ws/src/gtsam/build/wrap/tests/testArgument"
+Directory: /home/robot/ped_ws/src/gtsam/build/wrap/tests
+"testArgument" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testArgument" end time: Mar 20 12:26 CST
+"testArgument" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/233 Testing: testClass
+2/233 Test: testClass
+Command: "/home/robot/ped_ws/src/gtsam/build/wrap/tests/testClass"
+Directory: /home/robot/ped_ws/src/gtsam/build/wrap/tests
+"testClass" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testClass" end time: Mar 20 12:26 CST
+"testClass" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/233 Testing: testGlobalFunction
+3/233 Test: testGlobalFunction
+Command: "/home/robot/ped_ws/src/gtsam/build/wrap/tests/testGlobalFunction"
+Directory: /home/robot/ped_ws/src/gtsam/build/wrap/tests
+"testGlobalFunction" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testGlobalFunction" end time: Mar 20 12:26 CST
+"testGlobalFunction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/233 Testing: testMethod
+4/233 Test: testMethod
+Command: "/home/robot/ped_ws/src/gtsam/build/wrap/tests/testMethod"
+Directory: /home/robot/ped_ws/src/gtsam/build/wrap/tests
+"testMethod" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testMethod" end time: Mar 20 12:26 CST
+"testMethod" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/233 Testing: testReturnValue
+5/233 Test: testReturnValue
+Command: "/home/robot/ped_ws/src/gtsam/build/wrap/tests/testReturnValue"
+Directory: /home/robot/ped_ws/src/gtsam/build/wrap/tests
+"testReturnValue" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testReturnValue" end time: Mar 20 12:26 CST
+"testReturnValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/233 Testing: testSpirit
+6/233 Test: testSpirit
+Command: "/home/robot/ped_ws/src/gtsam/build/wrap/tests/testSpirit"
+Directory: /home/robot/ped_ws/src/gtsam/build/wrap/tests
+"testSpirit" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testSpirit" end time: Mar 20 12:26 CST
+"testSpirit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/233 Testing: testTemplate
+7/233 Test: testTemplate
+Command: "/home/robot/ped_ws/src/gtsam/build/wrap/tests/testTemplate"
+Directory: /home/robot/ped_ws/src/gtsam/build/wrap/tests
+"testTemplate" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testTemplate" end time: Mar 20 12:26 CST
+"testTemplate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/233 Testing: testType
+8/233 Test: testType
+Command: "/home/robot/ped_ws/src/gtsam/build/wrap/tests/testType"
+Directory: /home/robot/ped_ws/src/gtsam/build/wrap/tests
+"testType" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testType" end time: Mar 20 12:26 CST
+"testType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/233 Testing: testWrap
+9/233 Test: testWrap
+Command: "/home/robot/ped_ws/src/gtsam/build/wrap/tests/testWrap"
+Directory: /home/robot/ped_ws/src/gtsam/build/wrap/tests
+"testWrap" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testWrap" end time: Mar 20 12:26 CST
+"testWrap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/233 Testing: testCholesky
+10/233 Test: testCholesky
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testCholesky"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testCholesky" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCholesky" end time: Mar 20 12:26 CST
+"testCholesky" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/233 Testing: testDSFVector
+11/233 Test: testDSFVector
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testDSFVector"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testDSFVector" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDSFVector" end time: Mar 20 12:26 CST
+"testDSFVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/233 Testing: testDebug
+12/233 Test: testDebug
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testDebug"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testDebug" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDebug" end time: Mar 20 12:26 CST
+"testDebug" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/233 Testing: testFastContainers
+13/233 Test: testFastContainers
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testFastContainers"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testFastContainers" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testFastContainers" end time: Mar 20 12:26 CST
+"testFastContainers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/233 Testing: testGroup
+14/233 Test: testGroup
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testGroup"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testGroup" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testGroup" end time: Mar 20 12:26 CST
+"testGroup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/233 Testing: testLieMatrix
+15/233 Test: testLieMatrix
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testLieMatrix"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testLieMatrix" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLieMatrix" end time: Mar 20 12:26 CST
+"testLieMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/233 Testing: testLieScalar
+16/233 Test: testLieScalar
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testLieScalar"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testLieScalar" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLieScalar" end time: Mar 20 12:26 CST
+"testLieScalar" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/233 Testing: testLieVector
+17/233 Test: testLieVector
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testLieVector"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testLieVector" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLieVector" end time: Mar 20 12:26 CST
+"testLieVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/233 Testing: testMatrix
+18/233 Test: testMatrix
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testMatrix"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testMatrix" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testMatrix" end time: Mar 20 12:26 CST
+"testMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/233 Testing: testNumericalDerivative
+19/233 Test: testNumericalDerivative
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testNumericalDerivative"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testNumericalDerivative" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testNumericalDerivative" end time: Mar 20 12:26 CST
+"testNumericalDerivative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/233 Testing: testOptionalJacobian
+20/233 Test: testOptionalJacobian
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testOptionalJacobian"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testOptionalJacobian" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testOptionalJacobian" end time: Mar 20 12:26 CST
+"testOptionalJacobian" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/233 Testing: testSerializationBase
+21/233 Test: testSerializationBase
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testSerializationBase"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testSerializationBase" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationBase" end time: Mar 20 12:26 CST
+"testSerializationBase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/233 Testing: testSymmetricBlockMatrix
+22/233 Test: testSymmetricBlockMatrix
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testSymmetricBlockMatrix"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testSymmetricBlockMatrix" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymmetricBlockMatrix" end time: Mar 20 12:26 CST
+"testSymmetricBlockMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/233 Testing: testTestableAssertions
+23/233 Test: testTestableAssertions
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testTestableAssertions"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testTestableAssertions" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testTestableAssertions" end time: Mar 20 12:26 CST
+"testTestableAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/233 Testing: testTreeTraversal
+24/233 Test: testTreeTraversal
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testTreeTraversal"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testTreeTraversal" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTreeTraversal" end time: Mar 20 12:26 CST
+"testTreeTraversal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/233 Testing: testVector
+25/233 Test: testVector
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testVector"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testVector" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVector" end time: Mar 20 12:26 CST
+"testVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/233 Testing: testVerticalBlockMatrix
+26/233 Test: testVerticalBlockMatrix
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/base/tests/testVerticalBlockMatrix"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/base/tests
+"testVerticalBlockMatrix" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVerticalBlockMatrix" end time: Mar 20 12:26 CST
+"testVerticalBlockMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/233 Testing: testBearingRange
+27/233 Test: testBearingRange
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testBearingRange"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testBearingRange" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testBearingRange" end time: Mar 20 12:26 CST
+"testBearingRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/233 Testing: testCal3Bundler
+28/233 Test: testCal3Bundler
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCal3Bundler"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testCal3Bundler" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCal3Bundler" end time: Mar 20 12:26 CST
+"testCal3Bundler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/233 Testing: testCal3DS2
+29/233 Test: testCal3DS2
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCal3DS2"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testCal3DS2" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCal3DS2" end time: Mar 20 12:26 CST
+"testCal3DS2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/233 Testing: testCal3Unified
+30/233 Test: testCal3Unified
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCal3Unified"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testCal3Unified" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCal3Unified" end time: Mar 20 12:26 CST
+"testCal3Unified" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/233 Testing: testCal3_S2
+31/233 Test: testCal3_S2
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCal3_S2"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testCal3_S2" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCal3_S2" end time: Mar 20 12:26 CST
+"testCal3_S2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/233 Testing: testCalibratedCamera
+32/233 Test: testCalibratedCamera
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCalibratedCamera"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testCalibratedCamera" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCalibratedCamera" end time: Mar 20 12:26 CST
+"testCalibratedCamera" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/233 Testing: testCameraSet
+33/233 Test: testCameraSet
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCameraSet"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testCameraSet" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCameraSet" end time: Mar 20 12:26 CST
+"testCameraSet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/233 Testing: testCyclic
+34/233 Test: testCyclic
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCyclic"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testCyclic" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testCyclic" end time: Mar 20 12:26 CST
+"testCyclic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/233 Testing: testEssentialMatrix
+35/233 Test: testEssentialMatrix
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testEssentialMatrix"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testEssentialMatrix" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testEssentialMatrix" end time: Mar 20 12:26 CST
+"testEssentialMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/233 Testing: testOrientedPlane3
+36/233 Test: testOrientedPlane3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testOrientedPlane3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testOrientedPlane3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testOrientedPlane3" end time: Mar 20 12:26 CST
+"testOrientedPlane3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/233 Testing: testPinholeCamera
+37/233 Test: testPinholeCamera
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPinholeCamera"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testPinholeCamera" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPinholeCamera" end time: Mar 20 12:26 CST
+"testPinholeCamera" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/233 Testing: testPinholePose
+38/233 Test: testPinholePose
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPinholePose"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testPinholePose" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPinholePose" end time: Mar 20 12:26 CST
+"testPinholePose" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/233 Testing: testPinholeSet
+39/233 Test: testPinholeSet
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPinholeSet"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testPinholeSet" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPinholeSet" end time: Mar 20 12:26 CST
+"testPinholeSet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/233 Testing: testPoint2
+40/233 Test: testPoint2
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPoint2"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testPoint2" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPoint2" end time: Mar 20 12:26 CST
+"testPoint2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/233 Testing: testPoint3
+41/233 Test: testPoint3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPoint3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testPoint3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPoint3" end time: Mar 20 12:26 CST
+"testPoint3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/233 Testing: testPose2
+42/233 Test: testPose2
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPose2"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testPose2" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPose2" end time: Mar 20 12:26 CST
+"testPose2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/233 Testing: testPose3
+43/233 Test: testPose3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPose3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testPose3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPose3" end time: Mar 20 12:26 CST
+"testPose3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/233 Testing: testQuaternion
+44/233 Test: testQuaternion
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testQuaternion"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testQuaternion" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testQuaternion" end time: Mar 20 12:26 CST
+"testQuaternion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/233 Testing: testRot2
+45/233 Test: testRot2
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testRot2"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testRot2" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRot2" end time: Mar 20 12:26 CST
+"testRot2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/233 Testing: testRot3
+46/233 Test: testRot3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testRot3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testRot3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRot3" end time: Mar 20 12:26 CST
+"testRot3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/233 Testing: testRot3M
+47/233 Test: testRot3M
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testRot3M"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testRot3M" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRot3M" end time: Mar 20 12:26 CST
+"testRot3M" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/233 Testing: testRot3Q
+48/233 Test: testRot3Q
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testRot3Q"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testRot3Q" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRot3Q" end time: Mar 20 12:26 CST
+"testRot3Q" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/233 Testing: testSO3
+49/233 Test: testSO3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testSO3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testSO3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSO3" end time: Mar 20 12:26 CST
+"testSO3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/233 Testing: testSerializationGeometry
+50/233 Test: testSerializationGeometry
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testSerializationGeometry"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testSerializationGeometry" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationGeometry" end time: Mar 20 12:26 CST
+"testSerializationGeometry" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/233 Testing: testSimpleCamera
+51/233 Test: testSimpleCamera
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testSimpleCamera"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testSimpleCamera" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimpleCamera" end time: Mar 20 12:26 CST
+"testSimpleCamera" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/233 Testing: testStereoCamera
+52/233 Test: testStereoCamera
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testStereoCamera"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testStereoCamera" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testStereoCamera" end time: Mar 20 12:26 CST
+"testStereoCamera" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/233 Testing: testStereoPoint2
+53/233 Test: testStereoPoint2
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testStereoPoint2"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testStereoPoint2" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testStereoPoint2" end time: Mar 20 12:26 CST
+"testStereoPoint2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/233 Testing: testTriangulation
+54/233 Test: testTriangulation
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testTriangulation"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testTriangulation" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testTriangulation" end time: Mar 20 12:26 CST
+"testTriangulation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/233 Testing: testUnit3
+55/233 Test: testUnit3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testUnit3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+"testUnit3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testUnit3" end time: Mar 20 12:26 CST
+"testUnit3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/233 Testing: testKey
+56/233 Test: testKey
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/inference/tests/testKey"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/inference/tests
+"testKey" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testKey" end time: Mar 20 12:26 CST
+"testKey" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/233 Testing: testLabeledSymbol
+57/233 Test: testLabeledSymbol
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/inference/tests/testLabeledSymbol"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/inference/tests
+"testLabeledSymbol" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLabeledSymbol" end time: Mar 20 12:26 CST
+"testLabeledSymbol" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/233 Testing: testOrdering
+58/233 Test: testOrdering
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/inference/tests/testOrdering"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/inference/tests
+"testOrdering" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testOrdering" end time: Mar 20 12:26 CST
+"testOrdering" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/233 Testing: testVariableSlots
+59/233 Test: testVariableSlots
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/inference/tests/testVariableSlots"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/inference/tests
+"testVariableSlots" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVariableSlots" end time: Mar 20 12:26 CST
+"testVariableSlots" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/233 Testing: testSerializationSymbolic
+60/233 Test: testSerializationSymbolic
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests/testSerializationSymbolic"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests
+"testSerializationSymbolic" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationSymbolic" end time: Mar 20 12:26 CST
+"testSerializationSymbolic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/233 Testing: testSymbolicBayesNet
+61/233 Test: testSymbolicBayesNet
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests/testSymbolicBayesNet"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests
+"testSymbolicBayesNet" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicBayesNet" end time: Mar 20 12:26 CST
+"testSymbolicBayesNet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/233 Testing: testSymbolicBayesTree
+62/233 Test: testSymbolicBayesTree
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests/testSymbolicBayesTree"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests
+"testSymbolicBayesTree" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicBayesTree" end time: Mar 20 12:26 CST
+"testSymbolicBayesTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/233 Testing: testSymbolicConditional
+63/233 Test: testSymbolicConditional
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests/testSymbolicConditional"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests
+"testSymbolicConditional" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicConditional" end time: Mar 20 12:26 CST
+"testSymbolicConditional" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/233 Testing: testSymbolicEliminationTree
+64/233 Test: testSymbolicEliminationTree
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests/testSymbolicEliminationTree"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests
+"testSymbolicEliminationTree" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicEliminationTree" end time: Mar 20 12:26 CST
+"testSymbolicEliminationTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/233 Testing: testSymbolicFactor
+65/233 Test: testSymbolicFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests/testSymbolicFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests
+"testSymbolicFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicFactor" end time: Mar 20 12:26 CST
+"testSymbolicFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/233 Testing: testSymbolicFactorGraph
+66/233 Test: testSymbolicFactorGraph
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests/testSymbolicFactorGraph"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests
+"testSymbolicFactorGraph" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicFactorGraph" end time: Mar 20 12:26 CST
+"testSymbolicFactorGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/233 Testing: testSymbolicISAM
+67/233 Test: testSymbolicISAM
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests/testSymbolicISAM"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests
+"testSymbolicISAM" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicISAM" end time: Mar 20 12:26 CST
+"testSymbolicISAM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/233 Testing: testSymbolicJunctionTree
+68/233 Test: testSymbolicJunctionTree
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests/testSymbolicJunctionTree"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests
+"testSymbolicJunctionTree" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicJunctionTree" end time: Mar 20 12:26 CST
+"testSymbolicJunctionTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/233 Testing: testVariableIndex
+69/233 Test: testVariableIndex
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests/testVariableIndex"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/symbolic/tests
+"testVariableIndex" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVariableIndex" end time: Mar 20 12:26 CST
+"testVariableIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/233 Testing: testAlgebraicDecisionTree
+70/233 Test: testAlgebraicDecisionTree
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests/testAlgebraicDecisionTree"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests
+"testAlgebraicDecisionTree" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testAlgebraicDecisionTree" end time: Mar 20 12:26 CST
+"testAlgebraicDecisionTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/233 Testing: testDecisionTree
+71/233 Test: testDecisionTree
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests/testDecisionTree"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests
+"testDecisionTree" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDecisionTree" end time: Mar 20 12:26 CST
+"testDecisionTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/233 Testing: testDecisionTreeFactor
+72/233 Test: testDecisionTreeFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests/testDecisionTreeFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests
+"testDecisionTreeFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDecisionTreeFactor" end time: Mar 20 12:26 CST
+"testDecisionTreeFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/233 Testing: testDiscreteBayesNet
+73/233 Test: testDiscreteBayesNet
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests/testDiscreteBayesNet"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests
+"testDiscreteBayesNet" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteBayesNet" end time: Mar 20 12:26 CST
+"testDiscreteBayesNet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/233 Testing: testDiscreteBayesTree
+74/233 Test: testDiscreteBayesTree
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests/testDiscreteBayesTree"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests
+"testDiscreteBayesTree" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteBayesTree" end time: Mar 20 12:26 CST
+"testDiscreteBayesTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/233 Testing: testDiscreteConditional
+75/233 Test: testDiscreteConditional
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests/testDiscreteConditional"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests
+"testDiscreteConditional" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteConditional" end time: Mar 20 12:26 CST
+"testDiscreteConditional" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/233 Testing: testDiscreteFactor
+76/233 Test: testDiscreteFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests/testDiscreteFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests
+"testDiscreteFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteFactor" end time: Mar 20 12:26 CST
+"testDiscreteFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/233 Testing: testDiscreteFactorGraph
+77/233 Test: testDiscreteFactorGraph
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests/testDiscreteFactorGraph"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests
+"testDiscreteFactorGraph" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteFactorGraph" end time: Mar 20 12:26 CST
+"testDiscreteFactorGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/233 Testing: testDiscreteMarginals
+78/233 Test: testDiscreteMarginals
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests/testDiscreteMarginals"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests
+"testDiscreteMarginals" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteMarginals" end time: Mar 20 12:26 CST
+"testDiscreteMarginals" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/233 Testing: testSignature
+79/233 Test: testSignature
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests/testSignature"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/discrete/tests
+"testSignature" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSignature" end time: Mar 20 12:26 CST
+"testSignature" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/233 Testing: testErrors
+80/233 Test: testErrors
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testErrors"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testErrors" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testErrors" end time: Mar 20 12:26 CST
+"testErrors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+81/233 Testing: testGaussianBayesNet
+81/233 Test: testGaussianBayesNet
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testGaussianBayesNet"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testGaussianBayesNet" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianBayesNet" end time: Mar 20 12:26 CST
+"testGaussianBayesNet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+82/233 Testing: testGaussianBayesTree
+82/233 Test: testGaussianBayesTree
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testGaussianBayesTree"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testGaussianBayesTree" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianBayesTree" end time: Mar 20 12:26 CST
+"testGaussianBayesTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/233 Testing: testGaussianConditional
+83/233 Test: testGaussianConditional
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testGaussianConditional"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testGaussianConditional" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianConditional" end time: Mar 20 12:26 CST
+"testGaussianConditional" time elapsed: 00:00:00
+----------------------------------------------------------
+
+84/233 Testing: testGaussianDensity
+84/233 Test: testGaussianDensity
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testGaussianDensity"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testGaussianDensity" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianDensity" end time: Mar 20 12:26 CST
+"testGaussianDensity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+85/233 Testing: testGaussianFactorGraph
+85/233 Test: testGaussianFactorGraph
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testGaussianFactorGraph"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testGaussianFactorGraph" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianFactorGraph" end time: Mar 20 12:26 CST
+"testGaussianFactorGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+86/233 Testing: testHessianFactor
+86/233 Test: testHessianFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testHessianFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testHessianFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testHessianFactor" end time: Mar 20 12:26 CST
+"testHessianFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+87/233 Testing: testJacobianFactor
+87/233 Test: testJacobianFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testJacobianFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testJacobianFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testJacobianFactor" end time: Mar 20 12:26 CST
+"testJacobianFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+88/233 Testing: testKalmanFilter
+88/233 Test: testKalmanFilter
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testKalmanFilter"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testKalmanFilter" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testKalmanFilter" end time: Mar 20 12:26 CST
+"testKalmanFilter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+89/233 Testing: testNoiseModel
+89/233 Test: testNoiseModel
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testNoiseModel"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testNoiseModel" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testNoiseModel" end time: Mar 20 12:26 CST
+"testNoiseModel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+90/233 Testing: testRegularHessianFactor
+90/233 Test: testRegularHessianFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testRegularHessianFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testRegularHessianFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRegularHessianFactor" end time: Mar 20 12:26 CST
+"testRegularHessianFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+91/233 Testing: testRegularJacobianFactor
+91/233 Test: testRegularJacobianFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testRegularJacobianFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testRegularJacobianFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRegularJacobianFactor" end time: Mar 20 12:26 CST
+"testRegularJacobianFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+92/233 Testing: testSampler
+92/233 Test: testSampler
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testSampler"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testSampler" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSampler" end time: Mar 20 12:26 CST
+"testSampler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+93/233 Testing: testScatter
+93/233 Test: testScatter
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testScatter"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testScatter" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testScatter" end time: Mar 20 12:26 CST
+"testScatter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+94/233 Testing: testSerializationLinear
+94/233 Test: testSerializationLinear
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testSerializationLinear"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testSerializationLinear" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationLinear" end time: Mar 20 12:26 CST
+"testSerializationLinear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+95/233 Testing: testVectorValues
+95/233 Test: testVectorValues
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests/testVectorValues"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/linear/tests
+"testVectorValues" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVectorValues" end time: Mar 20 12:26 CST
+"testVectorValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+96/233 Testing: testAdaptAutoDiff
+96/233 Test: testAdaptAutoDiff
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests/testAdaptAutoDiff"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests
+"testAdaptAutoDiff" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testAdaptAutoDiff" end time: Mar 20 12:26 CST
+"testAdaptAutoDiff" time elapsed: 00:00:00
+----------------------------------------------------------
+
+97/233 Testing: testCallRecord
+97/233 Test: testCallRecord
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests/testCallRecord"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests
+"testCallRecord" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCallRecord" end time: Mar 20 12:26 CST
+"testCallRecord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+98/233 Testing: testExecutionTrace
+98/233 Test: testExecutionTrace
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests/testExecutionTrace"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests
+"testExecutionTrace" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testExecutionTrace" end time: Mar 20 12:26 CST
+"testExecutionTrace" time elapsed: 00:00:00
+----------------------------------------------------------
+
+99/233 Testing: testExpression
+99/233 Test: testExpression
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests/testExpression"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests
+"testExpression" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testExpression" end time: Mar 20 12:26 CST
+"testExpression" time elapsed: 00:00:00
+----------------------------------------------------------
+
+100/233 Testing: testLinearContainerFactor
+100/233 Test: testLinearContainerFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests/testLinearContainerFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests
+"testLinearContainerFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLinearContainerFactor" end time: Mar 20 12:26 CST
+"testLinearContainerFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+101/233 Testing: testSerializationNonlinear
+101/233 Test: testSerializationNonlinear
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests/testSerializationNonlinear"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests
+"testSerializationNonlinear" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationNonlinear" end time: Mar 20 12:26 CST
+"testSerializationNonlinear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+102/233 Testing: testValues
+102/233 Test: testValues
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests/testValues"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests
+"testValues" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testValues" end time: Mar 20 12:26 CST
+"testValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+103/233 Testing: testWhiteNoiseFactor
+103/233 Test: testWhiteNoiseFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests/testWhiteNoiseFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/nonlinear/tests
+"testWhiteNoiseFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testWhiteNoiseFactor" end time: Mar 20 12:26 CST
+"testWhiteNoiseFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+104/233 Testing: testBearingFactor
+104/233 Test: testBearingFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/sam/tests/testBearingFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/sam/tests
+"testBearingFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testBearingFactor" end time: Mar 20 12:26 CST
+"testBearingFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+105/233 Testing: testBearingRangeFactor
+105/233 Test: testBearingRangeFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/sam/tests/testBearingRangeFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/sam/tests
+"testBearingRangeFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testBearingRangeFactor" end time: Mar 20 12:26 CST
+"testBearingRangeFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+106/233 Testing: testRangeFactor
+106/233 Test: testRangeFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/sam/tests/testRangeFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/sam/tests
+"testRangeFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRangeFactor" end time: Mar 20 12:26 CST
+"testRangeFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+107/233 Testing: testAntiFactor
+107/233 Test: testAntiFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testAntiFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testAntiFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testAntiFactor" end time: Mar 20 12:26 CST
+"testAntiFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+108/233 Testing: testBetweenFactor
+108/233 Test: testBetweenFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testBetweenFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testBetweenFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testBetweenFactor" end time: Mar 20 12:26 CST
+"testBetweenFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+109/233 Testing: testDataset
+109/233 Test: testDataset
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testDataset"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testDataset" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"testDataset" end time: Mar 20 12:26 CST
+"testDataset" time elapsed: 00:00:00
+----------------------------------------------------------
+
+110/233 Testing: testEssentialMatrixConstraint
+110/233 Test: testEssentialMatrixConstraint
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testEssentialMatrixConstraint"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testEssentialMatrixConstraint" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testEssentialMatrixConstraint" end time: Mar 20 12:26 CST
+"testEssentialMatrixConstraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+111/233 Testing: testEssentialMatrixFactor
+111/233 Test: testEssentialMatrixFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testEssentialMatrixFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testEssentialMatrixFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testEssentialMatrixFactor" end time: Mar 20 12:26 CST
+"testEssentialMatrixFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+112/233 Testing: testGeneralSFMFactor
+112/233 Test: testGeneralSFMFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testGeneralSFMFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testGeneralSFMFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testGeneralSFMFactor" end time: Mar 20 12:26 CST
+"testGeneralSFMFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+113/233 Testing: testGeneralSFMFactor_Cal3Bundler
+113/233 Test: testGeneralSFMFactor_Cal3Bundler
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testGeneralSFMFactor_Cal3Bundler"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testGeneralSFMFactor_Cal3Bundler" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testGeneralSFMFactor_Cal3Bundler" end time: Mar 20 12:26 CST
+"testGeneralSFMFactor_Cal3Bundler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+114/233 Testing: testInitializePose3
+114/233 Test: testInitializePose3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testInitializePose3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testInitializePose3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+ b 1 f0 0.821026 a 6.01053 rho 12.0211 stepsize 0.0415936 maxNodeDeg 4
+nr of gradient iterations 1maxGrad 0.85189
+ b 1 f0 0.821026 a 6.01053 rho 12.0211 stepsize 0.0415936 maxNodeDeg 4
+nr of gradient iterations 10maxGrad 2.00427
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testInitializePose3" end time: Mar 20 12:26 CST
+"testInitializePose3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+115/233 Testing: testLago
+115/233 Test: testLago
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testLago"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testLago" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testLago" end time: Mar 20 12:26 CST
+"testLago" time elapsed: 00:00:00
+----------------------------------------------------------
+
+116/233 Testing: testOrientedPlane3Factor
+116/233 Test: testOrientedPlane3Factor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testOrientedPlane3Factor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testOrientedPlane3Factor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testOrientedPlane3Factor" end time: Mar 20 12:26 CST
+"testOrientedPlane3Factor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+117/233 Testing: testPoseRotationPrior
+117/233 Test: testPoseRotationPrior
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testPoseRotationPrior"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testPoseRotationPrior" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPoseRotationPrior" end time: Mar 20 12:26 CST
+"testPoseRotationPrior" time elapsed: 00:00:00
+----------------------------------------------------------
+
+118/233 Testing: testPoseTranslationPrior
+118/233 Test: testPoseTranslationPrior
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testPoseTranslationPrior"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testPoseTranslationPrior" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPoseTranslationPrior" end time: Mar 20 12:26 CST
+"testPoseTranslationPrior" time elapsed: 00:00:00
+----------------------------------------------------------
+
+119/233 Testing: testPriorFactor
+119/233 Test: testPriorFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testPriorFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testPriorFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPriorFactor" end time: Mar 20 12:26 CST
+"testPriorFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+120/233 Testing: testProjectionFactor
+120/233 Test: testProjectionFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testProjectionFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testProjectionFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testProjectionFactor" end time: Mar 20 12:26 CST
+"testProjectionFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+121/233 Testing: testReferenceFrameFactor
+121/233 Test: testReferenceFrameFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testReferenceFrameFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testReferenceFrameFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testReferenceFrameFactor" end time: Mar 20 12:26 CST
+"testReferenceFrameFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+122/233 Testing: testRegularImplicitSchurFactor
+122/233 Test: testRegularImplicitSchurFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testRegularImplicitSchurFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testRegularImplicitSchurFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRegularImplicitSchurFactor" end time: Mar 20 12:26 CST
+"testRegularImplicitSchurFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+123/233 Testing: testRotateFactor
+123/233 Test: testRotateFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testRotateFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testRotateFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRotateFactor" end time: Mar 20 12:26 CST
+"testRotateFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+124/233 Testing: testSlamExpressions
+124/233 Test: testSlamExpressions
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testSlamExpressions"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testSlamExpressions" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSlamExpressions" end time: Mar 20 12:26 CST
+"testSlamExpressions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+125/233 Testing: testSmartFactorBase
+125/233 Test: testSmartFactorBase
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testSmartFactorBase"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testSmartFactorBase" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSmartFactorBase" end time: Mar 20 12:26 CST
+"testSmartFactorBase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+126/233 Testing: testSmartProjectionCameraFactor
+126/233 Test: testSmartProjectionCameraFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testSmartProjectionCameraFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testSmartProjectionCameraFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testSmartProjectionCameraFactor" end time: Mar 20 12:26 CST
+"testSmartProjectionCameraFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+127/233 Testing: testSmartProjectionPoseFactor
+127/233 Test: testSmartProjectionPoseFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testSmartProjectionPoseFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testSmartProjectionPoseFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testSmartProjectionPoseFactor" end time: Mar 20 12:26 CST
+"testSmartProjectionPoseFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+128/233 Testing: testStereoFactor
+128/233 Test: testStereoFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testStereoFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testStereoFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testStereoFactor" end time: Mar 20 12:26 CST
+"testStereoFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+129/233 Testing: testTriangulationFactor
+129/233 Test: testTriangulationFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests/testTriangulationFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/slam/tests
+"testTriangulationFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTriangulationFactor" end time: Mar 20 12:26 CST
+"testTriangulationFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+130/233 Testing: testAHRSFactor
+130/233 Test: testAHRSFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testAHRSFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testAHRSFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testAHRSFactor" end time: Mar 20 12:26 CST
+"testAHRSFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+131/233 Testing: testAttitudeFactor
+131/233 Test: testAttitudeFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testAttitudeFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testAttitudeFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testAttitudeFactor" end time: Mar 20 12:26 CST
+"testAttitudeFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+132/233 Testing: testCombinedImuFactor
+132/233 Test: testCombinedImuFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testCombinedImuFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testCombinedImuFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testCombinedImuFactor" end time: Mar 20 12:26 CST
+"testCombinedImuFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+133/233 Testing: testImuBias
+133/233 Test: testImuBias
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testImuBias"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testImuBias" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testImuBias" end time: Mar 20 12:26 CST
+"testImuBias" time elapsed: 00:00:00
+----------------------------------------------------------
+
+134/233 Testing: testImuFactor
+134/233 Test: testImuFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testImuFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testImuFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"testImuFactor" end time: Mar 20 12:26 CST
+"testImuFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+135/233 Testing: testImuFactorSerialization
+135/233 Test: testImuFactorSerialization
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testImuFactorSerialization"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testImuFactorSerialization" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testImuFactorSerialization" end time: Mar 20 12:26 CST
+"testImuFactorSerialization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+136/233 Testing: testManifoldPreintegration
+136/233 Test: testManifoldPreintegration
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testManifoldPreintegration"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testManifoldPreintegration" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testManifoldPreintegration" end time: Mar 20 12:26 CST
+"testManifoldPreintegration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+137/233 Testing: testNavState
+137/233 Test: testNavState
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testNavState"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testNavState" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testNavState" end time: Mar 20 12:26 CST
+"testNavState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+138/233 Testing: testPoseVelocityBias
+138/233 Test: testPoseVelocityBias
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testPoseVelocityBias"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testPoseVelocityBias" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPoseVelocityBias" end time: Mar 20 12:26 CST
+"testPoseVelocityBias" time elapsed: 00:00:00
+----------------------------------------------------------
+
+139/233 Testing: testScenario
+139/233 Test: testScenario
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testScenario"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testScenario" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testScenario" end time: Mar 20 12:26 CST
+"testScenario" time elapsed: 00:00:00
+----------------------------------------------------------
+
+140/233 Testing: testScenarios
+140/233 Test: testScenarios
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testScenarios"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testScenarios" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+-Total: 0 CPU (0 times, 0 wall, 2.35 children, min: 0 max: 0)
+|   -estimateCovariance: 2.35 CPU (17 times, 2.35803 wall, 2.35 children, min: 0 max: 0)
+<end of output>
+Test time =   2.37 sec
+----------------------------------------------------------
+Test Passed.
+"testScenarios" end time: Mar 20 12:26 CST
+"testScenarios" time elapsed: 00:00:02
+----------------------------------------------------------
+
+141/233 Testing: testTangentPreintegration
+141/233 Test: testTangentPreintegration
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests/testTangentPreintegration"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam/navigation/tests
+"testTangentPreintegration" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTangentPreintegration" end time: Mar 20 12:26 CST
+"testTangentPreintegration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+142/233 Testing: testBoundingConstraint
+142/233 Test: testBoundingConstraint
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testBoundingConstraint"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testBoundingConstraint" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testBoundingConstraint" end time: Mar 20 12:26 CST
+"testBoundingConstraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+143/233 Testing: testDoglegOptimizer
+143/233 Test: testDoglegOptimizer
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testDoglegOptimizer"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testDoglegOptimizer" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDoglegOptimizer" end time: Mar 20 12:26 CST
+"testDoglegOptimizer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+144/233 Testing: testExpressionFactor
+144/233 Test: testExpressionFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testExpressionFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testExpressionFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testExpressionFactor" end time: Mar 20 12:26 CST
+"testExpressionFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+145/233 Testing: testExtendedKalmanFilter
+145/233 Test: testExtendedKalmanFilter
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testExtendedKalmanFilter"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testExtendedKalmanFilter" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testExtendedKalmanFilter" end time: Mar 20 12:26 CST
+"testExtendedKalmanFilter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+146/233 Testing: testGaussianBayesTreeB
+146/233 Test: testGaussianBayesTreeB
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testGaussianBayesTreeB"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testGaussianBayesTreeB" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianBayesTreeB" end time: Mar 20 12:26 CST
+"testGaussianBayesTreeB" time elapsed: 00:00:00
+----------------------------------------------------------
+
+147/233 Testing: testGaussianFactorGraphB
+147/233 Test: testGaussianFactorGraphB
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testGaussianFactorGraphB"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testGaussianFactorGraphB" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianFactorGraphB" end time: Mar 20 12:26 CST
+"testGaussianFactorGraphB" time elapsed: 00:00:00
+----------------------------------------------------------
+
+148/233 Testing: testGaussianISAM
+148/233 Test: testGaussianISAM
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testGaussianISAM"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testGaussianISAM" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianISAM" end time: Mar 20 12:26 CST
+"testGaussianISAM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+149/233 Testing: testGaussianISAM2
+149/233 Test: testGaussianISAM2
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testGaussianISAM2"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testGaussianISAM2" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianISAM2" end time: Mar 20 12:26 CST
+"testGaussianISAM2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+150/233 Testing: testGaussianJunctionTreeB
+150/233 Test: testGaussianJunctionTreeB
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testGaussianJunctionTreeB"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testGaussianJunctionTreeB" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianJunctionTreeB" end time: Mar 20 12:26 CST
+"testGaussianJunctionTreeB" time elapsed: 00:00:00
+----------------------------------------------------------
+
+151/233 Testing: testGeneralSFMFactorB
+151/233 Test: testGeneralSFMFactorB
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testGeneralSFMFactorB"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testGeneralSFMFactorB" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testGeneralSFMFactorB" end time: Mar 20 12:26 CST
+"testGeneralSFMFactorB" time elapsed: 00:00:00
+----------------------------------------------------------
+
+152/233 Testing: testGradientDescentOptimizer
+152/233 Test: testGradientDescentOptimizer
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testGradientDescentOptimizer"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testGradientDescentOptimizer" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testGradientDescentOptimizer" end time: Mar 20 12:26 CST
+"testGradientDescentOptimizer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+153/233 Testing: testGraph
+153/233 Test: testGraph
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testGraph"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testGraph" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGraph" end time: Mar 20 12:26 CST
+"testGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+154/233 Testing: testIterative
+154/233 Test: testIterative
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testIterative"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testIterative" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testIterative" end time: Mar 20 12:26 CST
+"testIterative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+155/233 Testing: testLie
+155/233 Test: testLie
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testLie"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testLie" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLie" end time: Mar 20 12:26 CST
+"testLie" time elapsed: 00:00:00
+----------------------------------------------------------
+
+156/233 Testing: testManifold
+156/233 Test: testManifold
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testManifold"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testManifold" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testManifold" end time: Mar 20 12:26 CST
+"testManifold" time elapsed: 00:00:00
+----------------------------------------------------------
+
+157/233 Testing: testMarginals
+157/233 Test: testMarginals
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testMarginals"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testMarginals" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testMarginals" end time: Mar 20 12:26 CST
+"testMarginals" time elapsed: 00:00:00
+----------------------------------------------------------
+
+158/233 Testing: testNonlinearEquality
+158/233 Test: testNonlinearEquality
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testNonlinearEquality"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testNonlinearEquality" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearEquality" end time: Mar 20 12:26 CST
+"testNonlinearEquality" time elapsed: 00:00:00
+----------------------------------------------------------
+
+159/233 Testing: testNonlinearFactor
+159/233 Test: testNonlinearFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testNonlinearFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testNonlinearFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearFactor" end time: Mar 20 12:26 CST
+"testNonlinearFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+160/233 Testing: testNonlinearFactorGraph
+160/233 Test: testNonlinearFactorGraph
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testNonlinearFactorGraph"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testNonlinearFactorGraph" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearFactorGraph" end time: Mar 20 12:26 CST
+"testNonlinearFactorGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+161/233 Testing: testNonlinearISAM
+161/233 Test: testNonlinearISAM
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testNonlinearISAM"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testNonlinearISAM" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearISAM" end time: Mar 20 12:26 CST
+"testNonlinearISAM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+162/233 Testing: testNonlinearOptimizer
+162/233 Test: testNonlinearOptimizer
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testNonlinearOptimizer"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testNonlinearOptimizer" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearOptimizer" end time: Mar 20 12:26 CST
+"testNonlinearOptimizer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+163/233 Testing: testPCGSolver
+163/233 Test: testPCGSolver
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testPCGSolver"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testPCGSolver" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPCGSolver" end time: Mar 20 12:26 CST
+"testPCGSolver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+164/233 Testing: testPreconditioner
+164/233 Test: testPreconditioner
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testPreconditioner"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testPreconditioner" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPreconditioner" end time: Mar 20 12:26 CST
+"testPreconditioner" time elapsed: 00:00:00
+----------------------------------------------------------
+
+165/233 Testing: testRot3Optimization
+165/233 Test: testRot3Optimization
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testRot3Optimization"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testRot3Optimization" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRot3Optimization" end time: Mar 20 12:26 CST
+"testRot3Optimization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+166/233 Testing: testSerializationSLAM
+166/233 Test: testSerializationSLAM
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testSerializationSLAM"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testSerializationSLAM" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationSLAM" end time: Mar 20 12:26 CST
+"testSerializationSLAM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+167/233 Testing: testSimulated2D
+167/233 Test: testSimulated2D
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testSimulated2D"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testSimulated2D" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimulated2D" end time: Mar 20 12:26 CST
+"testSimulated2D" time elapsed: 00:00:00
+----------------------------------------------------------
+
+168/233 Testing: testSimulated2DOriented
+168/233 Test: testSimulated2DOriented
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testSimulated2DOriented"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testSimulated2DOriented" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimulated2DOriented" end time: Mar 20 12:26 CST
+"testSimulated2DOriented" time elapsed: 00:00:00
+----------------------------------------------------------
+
+169/233 Testing: testSimulated3D
+169/233 Test: testSimulated3D
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testSimulated3D"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testSimulated3D" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimulated3D" end time: Mar 20 12:26 CST
+"testSimulated3D" time elapsed: 00:00:00
+----------------------------------------------------------
+
+170/233 Testing: testSubgraphPreconditioner
+170/233 Test: testSubgraphPreconditioner
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testSubgraphPreconditioner"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testSubgraphPreconditioner" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testSubgraphPreconditioner" end time: Mar 20 12:26 CST
+"testSubgraphPreconditioner" time elapsed: 00:00:00
+----------------------------------------------------------
+
+171/233 Testing: testSubgraphSolver
+171/233 Test: testSubgraphSolver
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testSubgraphSolver"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testSubgraphSolver" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testSubgraphSolver" end time: Mar 20 12:26 CST
+"testSubgraphSolver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+172/233 Testing: testVisualISAM2
+172/233 Test: testVisualISAM2
+Command: "/home/robot/ped_ws/src/gtsam/build/tests/testVisualISAM2"
+Directory: /home/robot/ped_ws/src/gtsam/build/tests
+"testVisualISAM2" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testVisualISAM2" end time: Mar 20 12:26 CST
+"testVisualISAM2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+173/233 Testing: testBTree
+173/233 Test: testBTree
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/base/tests/testBTree"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/base/tests
+"testBTree" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testBTree" end time: Mar 20 12:26 CST
+"testBTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+174/233 Testing: testDSF
+174/233 Test: testDSF
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/base/tests/testDSF"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/base/tests
+"testDSF" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testDSF" end time: Mar 20 12:26 CST
+"testDSF" time elapsed: 00:00:00
+----------------------------------------------------------
+
+175/233 Testing: testDSFMap
+175/233 Test: testDSFMap
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/base/tests/testDSFMap"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/base/tests
+"testDSFMap" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testDSFMap" end time: Mar 20 12:26 CST
+"testDSFMap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+176/233 Testing: testFixedVector
+176/233 Test: testFixedVector
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/base/tests/testFixedVector"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/base/tests
+"testFixedVector" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testFixedVector" end time: Mar 20 12:26 CST
+"testFixedVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+177/233 Testing: testBearingS2
+177/233 Test: testBearingS2
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests/testBearingS2"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests
+"testBearingS2" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testBearingS2" end time: Mar 20 12:26 CST
+"testBearingS2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+178/233 Testing: testEvent
+178/233 Test: testEvent
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests/testEvent"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests
+"testEvent" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testEvent" end time: Mar 20 12:26 CST
+"testEvent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+179/233 Testing: testInvDepthCamera3
+179/233 Test: testInvDepthCamera3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests/testInvDepthCamera3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests
+"testInvDepthCamera3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testInvDepthCamera3" end time: Mar 20 12:26 CST
+"testInvDepthCamera3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+180/233 Testing: testPose3Upright
+180/233 Test: testPose3Upright
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests/testPose3Upright"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests
+"testPose3Upright" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPose3Upright" end time: Mar 20 12:26 CST
+"testPose3Upright" time elapsed: 00:00:00
+----------------------------------------------------------
+
+181/233 Testing: testSimPolygon2D
+181/233 Test: testSimPolygon2D
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests/testSimPolygon2D"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests
+"testSimPolygon2D" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimPolygon2D" end time: Mar 20 12:26 CST
+"testSimPolygon2D" time elapsed: 00:00:00
+----------------------------------------------------------
+
+182/233 Testing: testSimWall2D
+182/233 Test: testSimWall2D
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests/testSimWall2D"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests
+"testSimWall2D" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimWall2D" end time: Mar 20 12:26 CST
+"testSimWall2D" time elapsed: 00:00:00
+----------------------------------------------------------
+
+183/233 Testing: testSimilarity3
+183/233 Test: testSimilarity3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests/testSimilarity3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/geometry/tests
+"testSimilarity3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSimilarity3" end time: Mar 20 12:26 CST
+"testSimilarity3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+184/233 Testing: testLPSolver
+184/233 Test: testLPSolver
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/linear/tests/testLPSolver"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/linear/tests
+"testLPSolver" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLPSolver" end time: Mar 20 12:26 CST
+"testLPSolver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+185/233 Testing: testLinearEquality
+185/233 Test: testLinearEquality
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/linear/tests/testLinearEquality"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/linear/tests
+"testLinearEquality" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLinearEquality" end time: Mar 20 12:26 CST
+"testLinearEquality" time elapsed: 00:00:00
+----------------------------------------------------------
+
+186/233 Testing: testQPSolver
+186/233 Test: testQPSolver
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/linear/tests/testQPSolver"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/linear/tests
+"testQPSolver" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testQPSolver" end time: Mar 20 12:26 CST
+"testQPSolver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+187/233 Testing: testCSP
+187/233 Test: testCSP
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/discrete/tests/testCSP"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/discrete/tests
+"testCSP" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testCSP" end time: Mar 20 12:26 CST
+"testCSP" time elapsed: 00:00:00
+----------------------------------------------------------
+
+188/233 Testing: testLoopyBelief
+188/233 Test: testLoopyBelief
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/discrete/tests/testLoopyBelief"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/discrete/tests
+"testLoopyBelief" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+graph: 
+size: 4
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Leaf 0.5
+factor 1: 
+factor 1: 
+  Cardinalities: 0=2 1=2 
+  Choice(1) 
+  0 Choice(0) 
+  0 0 Leaf 0.5
+  0 1 Leaf 0.9
+  1 Choice(0) 
+  1 0 Leaf 0.5
+  1 1 Leaf 0.1
+factor 2: 
+factor 2: 
+  Cardinalities: 0=2 2=2 
+  Choice(2) 
+  0 Choice(0) 
+  0 0 Leaf 0.8
+  0 1 Leaf 0.2
+  1 Choice(0) 
+  1 0 Leaf 0.2
+  1 1 Leaf 0.8
+factor 3: Potentials:
+  Cardinalities: 1=2 2=2 
+  Choice(2) 
+  0 Choice(1) 
+  0 0 Leaf 0
+  0 1 Leaf 0.9
+  1 Choice(1) 
+  1 0 Leaf 0.9
+  1 1 Leaf 0.99
+Loopy belief: :
+Node 0::
+Star graph: 
+size: 5
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Leaf 0.5
+factor 1: 
+factor 1: 
+  Cardinalities: 0=2 1=2 
+  Choice(1) 
+  0 Choice(0) 
+  0 0 Leaf 0.5
+  0 1 Leaf 0.9
+  1 Choice(0) 
+  1 0 Leaf 0.5
+  1 1 Leaf 0.1
+factor 2: 
+factor 2: 
+  Cardinalities: 0=2 2=2 
+  Choice(2) 
+  0 Choice(0) 
+  0 0 Leaf 0.8
+  0 1 Leaf 0.2
+  1 Choice(0) 
+  1 0 Leaf 0.2
+  1 1 Leaf 0.8
+factor 3: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0
+  1 Leaf 1
+factor 4: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0
+  1 Leaf 1
+Belief factor index for 1: 3
+Belief factor index for 2: 4
+Unary: Potentials:
+  Cardinalities: 0=2 
+  Leaf 0.5
+Node 1::
+Star graph: 
+size: 4
+factor 0: 
+factor 0: 
+  Cardinalities: 0=2 1=2 
+  Choice(1) 
+  0 Choice(0) 
+  0 0 Leaf 0.5
+  0 1 Leaf 0.9
+  1 Choice(0) 
+  1 0 Leaf 0.5
+  1 1 Leaf 0.1
+factor 1: Potentials:
+  Cardinalities: 1=2 2=2 
+  Choice(2) 
+  0 Choice(1) 
+  0 0 Leaf 0
+  0 1 Leaf 0.9
+  1 Choice(1) 
+  1 0 Leaf 0.9
+  1 1 Leaf 0.99
+factor 2: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0
+  1 Leaf 1
+factor 3: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0
+  1 Leaf 1
+Belief factor index for 0: 2
+Belief factor index for 2: 3
+Node 2::
+Star graph: 
+size: 4
+factor 0: 
+factor 0: 
+  Cardinalities: 0=2 2=2 
+  Choice(2) 
+  0 Choice(0) 
+  0 0 Leaf 0.8
+  0 1 Leaf 0.2
+  1 Choice(0) 
+  1 0 Leaf 0.2
+  1 1 Leaf 0.8
+factor 1: Potentials:
+  Cardinalities: 1=2 2=2 
+  Choice(2) 
+  0 Choice(1) 
+  0 0 Leaf 0
+  0 1 Leaf 0.9
+  1 Choice(1) 
+  1 0 Leaf 0.9
+  1 1 Leaf 0.99
+factor 2: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0
+  1 Leaf 1
+factor 3: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0
+  1 Leaf 1
+Belief factor index for 0: 2
+Belief factor index for 1: 3
+==================================
+iteration: 0
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.555556
+  1 Leaf 0.444444
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.891089
+  1 Leaf 0.108911
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.185185
+  1 Leaf 0.814815
+==================================
+iteration: 1
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.495421
+  1 Leaf 0.50458
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.771402
+  1 Leaf 0.228598
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.187668
+  1 Leaf 0.812333
+==================================
+iteration: 2
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.278835
+  1 Leaf 0.721159
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.411233
+  1 Leaf 0.588767
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.15325
+  1 Leaf 0.84675
+==================================
+iteration: 3
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.421542
+  1 Leaf 0.578458
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.650921
+  1 Leaf 0.349079
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.235745
+  1 Leaf 0.764255
+==================================
+iteration: 4
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.412524
+  1 Leaf 0.587474
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.624783
+  1 Leaf 0.375217
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.217467
+  1 Leaf 0.782533
+==================================
+iteration: 5
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.377534
+  1 Leaf 0.622466
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.56727
+  1 Leaf 0.43273
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.205673
+  1 Leaf 0.794327
+==================================
+iteration: 6
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.400413
+  1 Leaf 0.599589
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.604572
+  1 Leaf 0.395428
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.219521
+  1 Leaf 0.780479
+==================================
+iteration: 7
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.398968
+  1 Leaf 0.601033
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.600442
+  1 Leaf 0.399558
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.216298
+  1 Leaf 0.783703
+==================================
+iteration: 8
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.393505
+  1 Leaf 0.606498
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.591536
+  1 Leaf 0.408464
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.214327
+  1 Leaf 0.785673
+==================================
+iteration: 9
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.397058
+  1 Leaf 0.602942
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.597293
+  1 Leaf 0.402707
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.216495
+  1 Leaf 0.783505
+==================================
+iteration: 10
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396831
+  1 Leaf 0.603164
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.596653
+  1 Leaf 0.403347
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215987
+  1 Leaf 0.784014
+==================================
+iteration: 11
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.395986
+  1 Leaf 0.604014
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595274
+  1 Leaf 0.404726
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215678
+  1 Leaf 0.784322
+==================================
+iteration: 12
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396538
+  1 Leaf 0.603465
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.596165
+  1 Leaf 0.403835
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.216014
+  1 Leaf 0.783986
+==================================
+iteration: 13
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396502
+  1 Leaf 0.603498
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.596066
+  1 Leaf 0.403934
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215935
+  1 Leaf 0.784065
+==================================
+iteration: 14
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396369
+  1 Leaf 0.603627
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595852
+  1 Leaf 0.404148
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215887
+  1 Leaf 0.784113
+==================================
+iteration: 15
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396456
+  1 Leaf 0.603544
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.59599
+  1 Leaf 0.40401
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.21594
+  1 Leaf 0.784061
+==================================
+iteration: 16
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396452
+  1 Leaf 0.603552
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595975
+  1 Leaf 0.404025
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215927
+  1 Leaf 0.784073
+==================================
+iteration: 17
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.39643
+  1 Leaf 0.60357
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595942
+  1 Leaf 0.404058
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.21592
+  1 Leaf 0.78408
+==================================
+iteration: 18
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396442
+  1 Leaf 0.603554
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595963
+  1 Leaf 0.404037
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215928
+  1 Leaf 0.784072
+==================================
+iteration: 19
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396443
+  1 Leaf 0.603558
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595961
+  1 Leaf 0.404039
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215926
+  1 Leaf 0.784074
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLoopyBelief" end time: Mar 20 12:26 CST
+"testLoopyBelief" time elapsed: 00:00:00
+----------------------------------------------------------
+
+189/233 Testing: testPlanning
+189/233 Test: testPlanning
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/discrete/tests/testPlanning"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/discrete/tests
+"testPlanning" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPlanning" end time: Mar 20 12:26 CST
+"testPlanning" time elapsed: 00:00:00
+----------------------------------------------------------
+
+190/233 Testing: testScheduler
+190/233 Test: testScheduler
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/discrete/tests/testScheduler"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/discrete/tests
+"testScheduler" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testScheduler" end time: Mar 20 12:26 CST
+"testScheduler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+191/233 Testing: testSudoku
+191/233 Test: testSudoku
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/discrete/tests/testSudoku"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/discrete/tests
+"testSudoku" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testSudoku" end time: Mar 20 12:26 CST
+"testSudoku" time elapsed: 00:00:00
+----------------------------------------------------------
+
+192/233 Testing: testIMUSystem
+192/233 Test: testIMUSystem
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests/testIMUSystem"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests
+"testIMUSystem" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+Initial Error: 0.5
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testIMUSystem" end time: Mar 20 12:26 CST
+"testIMUSystem" time elapsed: 00:00:00
+----------------------------------------------------------
+
+193/233 Testing: testPendulumFactors
+193/233 Test: testPendulumFactors
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests/testPendulumFactors"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests
+"testPendulumFactors" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPendulumFactors" end time: Mar 20 12:26 CST
+"testPendulumFactors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+194/233 Testing: testPoseRTV
+194/233 Test: testPoseRTV
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests/testPoseRTV"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests
+"testPoseRTV" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPoseRTV" end time: Mar 20 12:26 CST
+"testPoseRTV" time elapsed: 00:00:00
+----------------------------------------------------------
+
+195/233 Testing: testSimpleHelicopter
+195/233 Test: testSimpleHelicopter
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests/testSimpleHelicopter"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests
+"testSimpleHelicopter" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimpleHelicopter" end time: Mar 20 12:26 CST
+"testSimpleHelicopter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+196/233 Testing: testVelocityConstraint
+196/233 Test: testVelocityConstraint
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests/testVelocityConstraint"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests
+"testVelocityConstraint" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVelocityConstraint" end time: Mar 20 12:26 CST
+"testVelocityConstraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+197/233 Testing: testVelocityConstraint3
+197/233 Test: testVelocityConstraint3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests/testVelocityConstraint3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/dynamics/tests
+"testVelocityConstraint3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVelocityConstraint3" end time: Mar 20 12:26 CST
+"testVelocityConstraint3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+198/233 Testing: testBatchFixedLagSmoother
+198/233 Test: testBatchFixedLagSmoother
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests/testBatchFixedLagSmoother"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests
+"testBatchFixedLagSmoother" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testBatchFixedLagSmoother" end time: Mar 20 12:26 CST
+"testBatchFixedLagSmoother" time elapsed: 00:00:00
+----------------------------------------------------------
+
+199/233 Testing: testConcurrentBatchFilter
+199/233 Test: testConcurrentBatchFilter
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests/testConcurrentBatchFilter"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests
+"testConcurrentBatchFilter" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+*********************** synchronize_2 ************************
+*********************** synchronize_3 ************************
+*********************** synchronize_5 ************************
+*********************** removeFactors_topology_1 ************************
+*********************** removeFactors_topology_2 ************************
+*********************** removeFactors_topology_3 ************************
+*********************** removeFactors_values ************************
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testConcurrentBatchFilter" end time: Mar 20 12:26 CST
+"testConcurrentBatchFilter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+200/233 Testing: testConcurrentBatchSmoother
+200/233 Test: testConcurrentBatchSmoother
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests/testConcurrentBatchSmoother"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests
+"testConcurrentBatchSmoother" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+*********************** removeFactors_topology_1 ************************
+*********************** removeFactors_topology_2 ************************
+*********************** removeFactors_topology_3 ************************
+*********************** removeFactors_values ************************
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testConcurrentBatchSmoother" end time: Mar 20 12:26 CST
+"testConcurrentBatchSmoother" time elapsed: 00:00:00
+----------------------------------------------------------
+
+201/233 Testing: testConcurrentIncrementalFilter
+201/233 Test: testConcurrentIncrementalFilter
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests/testConcurrentIncrementalFilter"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests
+"testConcurrentIncrementalFilter" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testConcurrentIncrementalFilter" end time: Mar 20 12:26 CST
+"testConcurrentIncrementalFilter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+202/233 Testing: testConcurrentIncrementalSmootherDL
+202/233 Test: testConcurrentIncrementalSmootherDL
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests/testConcurrentIncrementalSmootherDL"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests
+"testConcurrentIncrementalSmootherDL" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testConcurrentIncrementalSmootherDL" end time: Mar 20 12:26 CST
+"testConcurrentIncrementalSmootherDL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+203/233 Testing: testConcurrentIncrementalSmootherGN
+203/233 Test: testConcurrentIncrementalSmootherGN
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests/testConcurrentIncrementalSmootherGN"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests
+"testConcurrentIncrementalSmootherGN" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+ConcurrentIncrementalSmoother::update    removeFactorIndices - not implemented yet
+actual graph:  
+size: 5
+
+Factor 0: PriorFactor on 1
+  prior mean: R:
+[
+ 	1 0 0;
+    	0 1 0;
+    	0 0 1
+  ]
+[0, 0, 0]';isotropic dim=6 sigma=0.1
+
+Factor 1: BetweenFactor(1,2)
+  measured: R:
+[
+ 	  0.728033   0.684438   0.038888;
+    	 -0.678233   0.727373  -0.104534;
+    	-0.0998334  0.0497295   0.993761
+  ]
+[1, -0.25, 0.1]';  noise model: diagonal sigmas[0.1; 0.1; 0.1; 0.5; 0.5; 0.5];
+
+Factor 2: BetweenFactor(2,3)
+  measured: R:
+[
+ 	  0.728033472   0.684437717   0.038887971;
+    	 -0.678233405    0.72737335  -0.104534483;
+    	-0.0998334166  0.0497294816   0.993760669
+  ]
+[1, -0.25, 0.1]';  noise model: diagonal sigmas[0.1; 0.1; 0.1; 0.5; 0.5; 0.5];
+
+Factor 3: BetweenFactor(3,4)
+  measured: R:
+[
+ 	  0.728033472   0.684437717   0.038887971;
+    	 -0.678233405    0.72737335  -0.104534483;
+    	-0.0998334166  0.0497294816   0.993760669
+  ]
+[1, -0.25, 0.1]';  noise model: diagonal sigmas[0.1; 0.1; 0.1; 0.5; 0.5; 0.5];
+
+Factor 4: BetweenFactor(1,2)
+  measured: R:
+[
+ 	  0.728033472   0.684437717   0.038887971;
+    	 -0.678233405    0.72737335  -0.104534483;
+    	-0.0998334166  0.0497294816   0.993760669
+  ]
+[1, -0.25, 0.1]';  noise model: diagonal sigmas[0.1; 0.1; 0.1; 0.5; 0.5; 0.5];
+
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testConcurrentIncrementalSmootherGN" end time: Mar 20 12:26 CST
+"testConcurrentIncrementalSmootherGN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+204/233 Testing: testIncrementalFixedLagSmoother
+204/233 Test: testIncrementalFixedLagSmoother
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests/testIncrementalFixedLagSmoother"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests
+"testIncrementalFixedLagSmoother" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testIncrementalFixedLagSmoother" end time: Mar 20 12:26 CST
+"testIncrementalFixedLagSmoother" time elapsed: 00:00:00
+----------------------------------------------------------
+
+205/233 Testing: testLinearizedFactor
+205/233 Test: testLinearizedFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests/testLinearizedFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests
+"testLinearizedFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLinearizedFactor" end time: Mar 20 12:26 CST
+"testLinearizedFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+206/233 Testing: testNonlinearClusterTree
+206/233 Test: testNonlinearClusterTree
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests/testNonlinearClusterTree"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests
+"testNonlinearClusterTree" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearClusterTree" end time: Mar 20 12:26 CST
+"testNonlinearClusterTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+207/233 Testing: testParticleFactor
+207/233 Test: testParticleFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests/testParticleFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/nonlinear/tests
+"testParticleFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testParticleFactor" end time: Mar 20 12:26 CST
+"testParticleFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+208/233 Testing: testAHRS
+208/233 Test: testAHRS
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testAHRS"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testAHRS" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testAHRS" end time: Mar 20 12:26 CST
+"testAHRS" time elapsed: 00:00:00
+----------------------------------------------------------
+
+209/233 Testing: testBetweenFactorEM
+209/233 Test: testBetweenFactorEM
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testBetweenFactorEM"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testBetweenFactorEM" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testBetweenFactorEM" end time: Mar 20 12:26 CST
+"testBetweenFactorEM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+210/233 Testing: testBiasedGPSFactor
+210/233 Test: testBiasedGPSFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testBiasedGPSFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testBiasedGPSFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testBiasedGPSFactor" end time: Mar 20 12:26 CST
+"testBiasedGPSFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+211/233 Testing: testDummyFactor
+211/233 Test: testDummyFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testDummyFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testDummyFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDummyFactor" end time: Mar 20 12:26 CST
+"testDummyFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+212/233 Testing: testEquivInertialNavFactor_GlobalVel
+212/233 Test: testEquivInertialNavFactor_GlobalVel
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testEquivInertialNavFactor_GlobalVel"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testEquivInertialNavFactor_GlobalVel" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testEquivInertialNavFactor_GlobalVel" end time: Mar 20 12:26 CST
+"testEquivInertialNavFactor_GlobalVel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+213/233 Testing: testGaussMarkov1stOrderFactor
+213/233 Test: testGaussMarkov1stOrderFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testGaussMarkov1stOrderFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testGaussMarkov1stOrderFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussMarkov1stOrderFactor" end time: Mar 20 12:26 CST
+"testGaussMarkov1stOrderFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+214/233 Testing: testInertialNavFactor_GlobalVelocity
+214/233 Test: testInertialNavFactor_GlobalVelocity
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testInertialNavFactor_GlobalVelocity"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testInertialNavFactor_GlobalVelocity" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testInertialNavFactor_GlobalVelocity" end time: Mar 20 12:26 CST
+"testInertialNavFactor_GlobalVelocity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+215/233 Testing: testInvDepthFactor3
+215/233 Test: testInvDepthFactor3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testInvDepthFactor3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testInvDepthFactor3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testInvDepthFactor3" end time: Mar 20 12:26 CST
+"testInvDepthFactor3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+216/233 Testing: testInvDepthFactorVariant1
+216/233 Test: testInvDepthFactorVariant1
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testInvDepthFactorVariant1"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testInvDepthFactorVariant1" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testInvDepthFactorVariant1" end time: Mar 20 12:26 CST
+"testInvDepthFactorVariant1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+217/233 Testing: testInvDepthFactorVariant2
+217/233 Test: testInvDepthFactorVariant2
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testInvDepthFactorVariant2"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testInvDepthFactorVariant2" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testInvDepthFactorVariant2" end time: Mar 20 12:26 CST
+"testInvDepthFactorVariant2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+218/233 Testing: testInvDepthFactorVariant3
+218/233 Test: testInvDepthFactorVariant3
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testInvDepthFactorVariant3"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testInvDepthFactorVariant3" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testInvDepthFactorVariant3" end time: Mar 20 12:26 CST
+"testInvDepthFactorVariant3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+219/233 Testing: testMultiProjectionFactor
+219/233 Test: testMultiProjectionFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testMultiProjectionFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testMultiProjectionFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testMultiProjectionFactor" end time: Mar 20 12:26 CST
+"testMultiProjectionFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+220/233 Testing: testOccupancyGrid
+220/233 Test: testOccupancyGrid
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testOccupancyGrid"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testOccupancyGrid" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testOccupancyGrid" end time: Mar 20 12:26 CST
+"testOccupancyGrid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+221/233 Testing: testPoseBetweenFactor
+221/233 Test: testPoseBetweenFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testPoseBetweenFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testPoseBetweenFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPoseBetweenFactor" end time: Mar 20 12:26 CST
+"testPoseBetweenFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+222/233 Testing: testPosePriorFactor
+222/233 Test: testPosePriorFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testPosePriorFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testPosePriorFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPosePriorFactor" end time: Mar 20 12:26 CST
+"testPosePriorFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+223/233 Testing: testProjectionFactorPPP
+223/233 Test: testProjectionFactorPPP
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testProjectionFactorPPP"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testProjectionFactorPPP" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testProjectionFactorPPP" end time: Mar 20 12:26 CST
+"testProjectionFactorPPP" time elapsed: 00:00:00
+----------------------------------------------------------
+
+224/233 Testing: testProjectionFactorPPPC
+224/233 Test: testProjectionFactorPPPC
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testProjectionFactorPPPC"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testProjectionFactorPPPC" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testProjectionFactorPPPC" end time: Mar 20 12:26 CST
+"testProjectionFactorPPPC" time elapsed: 00:00:00
+----------------------------------------------------------
+
+225/233 Testing: testRelativeElevationFactor
+225/233 Test: testRelativeElevationFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testRelativeElevationFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testRelativeElevationFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRelativeElevationFactor" end time: Mar 20 12:26 CST
+"testRelativeElevationFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+226/233 Testing: testSmartRangeFactor
+226/233 Test: testSmartRangeFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testSmartRangeFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testSmartRangeFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSmartRangeFactor" end time: Mar 20 12:26 CST
+"testSmartRangeFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+227/233 Testing: testSmartStereoProjectionPoseFactor
+227/233 Test: testSmartStereoProjectionPoseFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testSmartStereoProjectionPoseFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testSmartStereoProjectionPoseFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSmartStereoProjectionPoseFactor" end time: Mar 20 12:26 CST
+"testSmartStereoProjectionPoseFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+228/233 Testing: testTOAFactor
+228/233 Test: testTOAFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testTOAFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testTOAFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testTOAFactor" end time: Mar 20 12:26 CST
+"testTOAFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+229/233 Testing: testTSAMFactors
+229/233 Test: testTSAMFactors
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testTSAMFactors"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testTSAMFactors" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTSAMFactors" end time: Mar 20 12:26 CST
+"testTSAMFactors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+230/233 Testing: testTransformBtwRobotsUnaryFactor
+230/233 Test: testTransformBtwRobotsUnaryFactor
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testTransformBtwRobotsUnaryFactor"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testTransformBtwRobotsUnaryFactor" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTransformBtwRobotsUnaryFactor" end time: Mar 20 12:26 CST
+"testTransformBtwRobotsUnaryFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+231/233 Testing: testTransformBtwRobotsUnaryFactorEM
+231/233 Test: testTransformBtwRobotsUnaryFactorEM
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests/testTransformBtwRobotsUnaryFactorEM"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/slam/tests
+"testTransformBtwRobotsUnaryFactorEM" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTransformBtwRobotsUnaryFactorEM" end time: Mar 20 12:26 CST
+"testTransformBtwRobotsUnaryFactorEM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+232/233 Testing: testFindSeparator
+232/233 Test: testFindSeparator
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/partition/tests/testFindSeparator"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/partition/tests
+"testFindSeparator" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+4 factors,	5 nodes;	
+Number of nodes: 5
+index1: 0
+index2: 3
+index1: 2
+index2: 4
+index1: 0
+index2: 1
+index1: 1
+index2: 2
+**********************************************************************
+Graph Information ---------------------------------------------------
+  #Vertices: 5, #Edges: 4
+
+ND Partitioning... -------------------------------------------
+  Sep size:        		 1
+**********************************************************************
+total key: 5 result(A,B,C) = 2, 2, 1; sepsize from Metis = 1
+4 factors,	5 nodes;	
+Number of nodes: 5
+index1: 0
+index2: 3
+index1: 2
+index2: 4
+index1: 0
+index2: 1
+index1: 1
+index2: 2
+**********************************************************************
+Graph Information ---------------------------------------------------
+  #Vertices: 5, #Edges: 4
+
+ND Partitioning... -------------------------------------------
+  Sep size:        		 1
+**********************************************************************
+total key: 5 result(A,B,C) = 2, 2, 1; sepsize from Metis = 1
+3 factors,	4 nodes;	
+Number of nodes: 4
+index1: 0
+index2: 1
+index1: 1
+index2: 2
+index1: 2
+index2: 3
+**********************************************************************
+Graph Information ---------------------------------------------------
+  #Vertices: 4, #Edges: 3
+
+ND Partitioning... -------------------------------------------
+Finished bisection:1
+***Warning: mcore memory was not fully freed when destroyed.
+ cur_callocs:      8  cur_hallocs:      0 cmop:      1
+
+Timing Information --------------------------------------------------
+  Edge cuts:    		 1
+**********************************************************************
+the size of two submaps in the reduced graph: 2 2
+0A 1A weight 1
+1A 2B weight 1 CUT 
+2B 3B weight 1
+edgeCut: 1
+4 factors,	5 nodes;	
+Number of nodes: 5
+index1: 0
+index2: 1
+index1: 1
+index2: 2
+index1: 2
+index2: 3
+index1: 3
+index2: 4
+**********************************************************************
+Graph Information ---------------------------------------------------
+  #Vertices: 5, #Edges: 4
+
+ND Partitioning... -------------------------------------------
+Finished bisection:1
+***Warning: mcore memory was not fully freed when destroyed.
+ cur_callocs:      8  cur_hallocs:      0 cmop:      1
+
+Timing Information --------------------------------------------------
+  Edge cuts:    		 1
+**********************************************************************
+the size of two submaps in the reduced graph: 2 3
+0A 1A weight 1
+1A 2B weight 1 CUT 
+2B 3B weight 20
+3B 4B weight 1
+edgeCut: 1
+Number of nodes: 5
+index1: 0
+index2: 3
+index1: 2
+index2: 4
+index1: 0
+index2: 1
+index1: 1
+index2: 2
+Number of nodes: 5
+index1: 0
+index2: 3
+index1: 2
+index2: 4
+index1: 0
+index2: 1
+index1: 1
+index2: 2
+original graph: V28, E48 --> reduced graph: V4, E3
+Number of nodes: 4
+index1: 0
+index2: 1
+index1: 1
+index2: 2
+index1: 2
+index2: 3
+Finished bisection:1
+***Warning: mcore memory was not fully freed when destroyed.
+ cur_callocs:      8  cur_hallocs:      0 cmop:      1
+the separator size: 8 landmarks
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testFindSeparator" end time: Mar 20 12:26 CST
+"testFindSeparator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+233/233 Testing: testGenericGraph
+233/233 Test: testGenericGraph
+Command: "/home/robot/ped_ws/src/gtsam/build/gtsam_unstable/partition/tests/testGenericGraph"
+Directory: /home/robot/ped_ws/src/gtsam/build/gtsam_unstable/partition/tests
+"testGenericGraph" start time: Mar 20 12:26 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGenericGraph" end time: Mar 20 12:26 CST
+"testGenericGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 20 12:26 CST
