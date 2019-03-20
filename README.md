@@ -8,5 +8,5 @@ ped_ws is the workspace of drivers of the pedrail robot.
 
 This stack contains:
 
-* `keyControl`: control pedrail robot using the keyboard.
- 
+* `key_control`: This package is about controls pedrail robot using the keyboard.
+* `velodyne`: The driver of the velodyne pkg.

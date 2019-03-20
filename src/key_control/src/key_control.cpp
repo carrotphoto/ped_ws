@@ -209,7 +209,7 @@ void KeyControlNode::keyboardLoop() {
 
 
 int main(int argc, char** argv) {
-    ros::init(argc, argv, "KeyControl");
+    ros::init(argc, argv, "key_control_node");
     KeyControlNode tbk;
     KeyControlNode* p = &tbk;
 
