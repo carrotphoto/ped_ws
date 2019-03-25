@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /home/robot/ped_ws/src/gtsam/gtsam/geometry/tests
+# Build directory: /home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(testBearingRange "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testBearingRange")
+add_test(testCal3Bundler "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCal3Bundler")
+add_test(testCal3DS2 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCal3DS2")
+add_test(testCal3Unified "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCal3Unified")
+add_test(testCal3_S2 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCal3_S2")
+add_test(testCalibratedCamera "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCalibratedCamera")
+add_test(testCameraSet "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCameraSet")
+add_test(testCyclic "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testCyclic")
+add_test(testEssentialMatrix "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testEssentialMatrix")
+add_test(testOrientedPlane3 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testOrientedPlane3")
+add_test(testPinholeCamera "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPinholeCamera")
+add_test(testPinholePose "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPinholePose")
+add_test(testPinholeSet "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPinholeSet")
+add_test(testPoint2 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPoint2")
+add_test(testPoint3 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPoint3")
+add_test(testPose2 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPose2")
+add_test(testPose3 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testPose3")
+add_test(testQuaternion "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testQuaternion")
+add_test(testRot2 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testRot2")
+add_test(testRot3 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testRot3")
+add_test(testRot3M "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testRot3M")
+add_test(testRot3Q "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testRot3Q")
+add_test(testSO3 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testSO3")
+add_test(testSerializationGeometry "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testSerializationGeometry")
+add_test(testSimpleCamera "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testSimpleCamera")
+add_test(testStereoCamera "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testStereoCamera")
+add_test(testStereoPoint2 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testStereoPoint2")
+add_test(testTriangulation "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testTriangulation")
+add_test(testUnit3 "/home/robot/ped_ws/src/gtsam/build/gtsam/geometry/tests/testUnit3")
