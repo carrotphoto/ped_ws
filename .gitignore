@@ -47,5 +47,7 @@ devel
 build_isolated
 devel_isolated
 
+bag
+
 .catkin_workspace
 
