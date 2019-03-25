@@ -48,6 +48,6 @@ build_isolated
 devel_isolated
 
 bag
-
+gtsam
 .catkin_workspace
 
