@@ -11,3 +11,5 @@ This stack contains:
 * `velodyne`: The driver of the velodyne pkg.
 * `lego-loam`: The algorighm that used to build the 3D map.
 * `gtasm`: A library used to smooth the map.
+
+在`gtsam/gtsam/3rdparty/GeographicLib/java/src/main/java/net/sf/geographiclib/PolygonArea.java`路径下包含多边形的面积计算
